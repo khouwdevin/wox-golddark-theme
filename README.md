@@ -1,6 +1,6 @@
 # Gold and Dark Theme for Wox
 
-# How to
+# How to apply
 
 just put the .xaml file in wox's themes folder.
 
